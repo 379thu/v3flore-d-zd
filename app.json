@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/379thu/v3flore-d-zd",
+  "repository": "https://github.com/379thu/v3flore-d-zd",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
